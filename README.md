@@ -1,2 +1,1 @@
-# painterswheatridge.com
-painterswheatridge.com
+Static site.

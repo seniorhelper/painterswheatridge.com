@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 170" role="img" aria-labelledby="wrlt"><title id="wrlt">Wheat Ridge Painters, a Painter Hotline crew</title>
+<defs><linearGradient id="wrsw" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7b2d3b"/><stop offset=".55" stop-color="#c9992f"/><stop offset="1" stop-color="#6f8161"/></linearGradient></defs>
+<g transform="translate(6 8)">
+<circle cx="78" cy="77" r="72" fill="#fcfaf5" stroke="#7b2d3b" stroke-width="5"/>
+<g stroke="#c9992f" stroke-width="4" stroke-linecap="round"><path d="M112 24v22M101 35h22M104 27l16 16M120 27l-16 16"/></g>
+<circle cx="112" cy="35" r="4" fill="#c9992f"/>
+<path d="M22 82 L78 58 L134 82" fill="none" stroke="#7b2d3b" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="34" y="82" width="88" height="34" fill="#7b2d3b"/>
+<rect x="44" y="90" width="22" height="14" fill="#fcfaf5"/><rect x="72" y="90" width="9" height="26" fill="#c9992f"/><rect x="88" y="90" width="26" height="14" fill="#fcfaf5"/>
+<path d="M16 128 C46 116 92 138 140 120" fill="none" stroke="url(#wrsw)" stroke-width="10" stroke-linecap="round"/>
+</g>
+<text x="176" y="74" font-family="'Bricolage Grotesque','Arial Black',system-ui,sans-serif" font-weight="800" font-size="56" letter-spacing="-1.5" fill="#231d1f">Wheat Ridge</text>
+<text x="178" y="118" font-family="'Bricolage Grotesque','Arial Black',system-ui,sans-serif" font-weight="700" font-size="38" letter-spacing="5" fill="#7b2d3b">PAINTERS</text>
+<rect x="178" y="134" width="430" height="3" fill="url(#wrsw)"/>
+<text x="178" y="160" font-family="'Work Sans',system-ui,sans-serif" font-weight="600" font-size="17" letter-spacing="3.2" fill="#4f5f44">PAINTER HOTLINE · OLDER HOMES</text>
+</svg>
